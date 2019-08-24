@@ -5,7 +5,7 @@ i = 0
 while i < collection.length 
  if collection[i] == true
 yield(collection[i])
-return collection
+return collectioni]
 i += 1 
 end
 end
